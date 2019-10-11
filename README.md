@@ -12,7 +12,7 @@ At first, download the ***exercise1*** application as a zip file from [here](htt
       
         sudo apt-get install python3-dev python3-pip
       
-  * **Mac and Windows:** [this guideline](https://www.youtube.com/watch?v=YYXdXT2l-Gg)
+  * **Mac and Windows User:** [this guideline](https://www.youtube.com/watch?v=YYXdXT2l-Gg) will help you to get install python on Mac and Windows.
 
 # version checking:
 Check your python and pip (python package installer).
